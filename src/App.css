@@ -1,0 +1,43 @@
+.quote {
+  text-align: center;
+}
+
+.quote-header {
+  background-color: skyblue;
+  transition: 2s;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.quote-box {
+  border-radius: 10px;
+  background-color: whitesmoke;
+  width: 50vh;
+  height: 40vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.quote-text {
+  font-family: Verdana, sans-serif;
+  width: 40vh;
+  height: 15vh;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 10px;
+  background-color: skyblue;
+  transition: 2s;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 47px; /* gets stuck to the left for some reason */
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-evenly;
+}
