@@ -23,7 +23,7 @@
 }
 
 .quote-text {
-  font-family: Verdana, sans-serif;
+  font-family: Lucida Calligraphy, sans-serif;
   width: 40vh;
   height: 15vh;
   padding-left: 10px;
@@ -40,4 +40,8 @@
 .buttons {
   display: flex;
   justify-content: space-evenly;
+}
+
+.author-text {
+  font-weight: bold;
 }

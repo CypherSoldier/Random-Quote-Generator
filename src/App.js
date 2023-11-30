@@ -69,7 +69,7 @@ function QuoteBox() {
   return (
     <div className='quote-box'>
       <div id="colorChange" className="quote-text">
-        <p id='text'></p>
+        <p className="author-text" id='text'></p>
         <p id='author'></p>
       </div>
       <div className="buttons">
