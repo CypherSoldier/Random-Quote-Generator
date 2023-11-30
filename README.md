@@ -11,4 +11,3 @@ Generates random quotes with a push of a button and allows you tweet the current
 
 ## Preview
 <img src="https://github.com/CypherSoldier/Random-Quote-Generator/assets/107351021/1b6dc5b2-d656-429b-aaa2-aa729bf80d37">
-![Web capture_30-11-2023_113840_cyphersoldier github io](https://github.com/CypherSoldier/Random-Quote-Generator/assets/107351021/1b6dc5b2-d656-429b-aaa2-aa729bf80d37)
