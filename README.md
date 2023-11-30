@@ -3,8 +3,9 @@ Generates random quotes with a push of a button and allows you tweet the current
 
 ## Programming languages and frameworks used
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" weight="50px" height="50px">
+
+## g
 <img scr="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" weight="50px" height="50px">
-- CSS
 - JAVASCRIPT
 - SASS
 - BOOTSTRAP
