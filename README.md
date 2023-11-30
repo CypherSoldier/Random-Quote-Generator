@@ -2,7 +2,7 @@
 Generates random quotes with a push of a button and allows you tweet the current quote to Twitter/X
 
 ## Programming languages and frameworks used
-- HTML
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
 - CSS
 - JAVASCRIPT
 - SASS
